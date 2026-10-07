@@ -1,0 +1,24 @@
+# Исполняемые файлы
+*.exe
+*.o
+*.out
+task2
+variant4
+
+# Логи
+*.log
+.*.log
+
+# Временные тестовые каталоги
+test_v4/
+dir5/
+
+# Артефакты работы скриптов
+lab1/args.txt
+lab1/result.txt
+lab1/a.txt
+lab1/b.txt
+lab1/c.c
+lab1/bad.c
+lab1/Dir1/
+lab1/Dir2/

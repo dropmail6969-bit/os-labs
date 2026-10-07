@@ -1,6 +1,0 @@
-menu.sh
-run_lab1.sh
-script4.sh
-script5.sh
-script6.sh
-script7.sh
